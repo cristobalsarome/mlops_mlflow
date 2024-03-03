@@ -5,6 +5,5 @@ conda_env: config/environment.yml
 
 entry_points:
   main:
-    parameters:
     command: "python_main.py"
 
