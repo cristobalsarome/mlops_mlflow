@@ -22,6 +22,7 @@ def load_data(db_uri):
                       FROM target.scores_users_movies""", conn)
     conn.dispose()
     return df
+
 def prepare_data(df):
     # categorical varables to one hot encoding
     df = pd.get_dummies(df, columns=["user_occupation", "movie_name"], drop_first=True)
@@ -41,8 +42,6 @@ def train(df):
     # Split data into training and test sets
     X_train, X_test, y_train , y_test= train_test_split(X,y, test_size=0.2)
     
-    print( X_train.shape, X_test.shape, y_train.shape, y_test.shape)
-
     # train an XGBoost regressor
     model = xgb.XGBRegressor()
     model.fit(X_train, y_train)
@@ -55,10 +54,13 @@ def train(df):
     mlflow.log_metric("mse", mse)
     mlflow.log_metric("r2_score", r2_score_model)
 
+
     # log model
     mlflow.xgboost.log_model(model, 
                              "model",
                              registered_model_name="score_prediction_model")
+    # save model to file
+    model.save_model("saved_models/model.xgb")
 
 
 
@@ -72,16 +74,8 @@ def main(db_uri):
     df = prepare_data(df)
     model = train(df)
 
-
-
     mlflow.end_run()
 
 if __name__ == "__main__":
     import sys
-    print(sys.argv[1])
     main(sys.argv[1])
-    """
-    db_uri = 'postgresql://airbyte:airbyte@localhost:5432/mlops'
-    with create_engine(db_uri) as conn:
-        df = pd.read_sql('SELECT user_id, movie_id, rating FROM target.scores_users_movies', conn)
-    print(df.head())"""
