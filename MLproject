@@ -5,5 +5,7 @@ conda_env: config/environment.yml
 
 entry_points:
   main:
-    command: "python_main.py"
+    parameters:
+      db_uri: {type: string, default: ''}
+    command: "python train.py {db_uri}"
 
