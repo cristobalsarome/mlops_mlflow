@@ -1,0 +1,10 @@
+name: MLOps-Proyect
+
+#python_env: python_env.yaml
+conda_env: config/environment.yml
+
+entry_points:
+  main:
+    parameters:
+    command: "python_main.py"
+
