@@ -10,10 +10,11 @@ from sqlalchemy import create_engine
 from datetime import datetime, timedelta
 import os
 from sklearn.metrics import mean_squared_error
+from mlflow.exceptions import RestException
 
 mlflow.set_tracking_uri(uri="http://localhost:8002")
 # Create a new MLflow Experiment
-mlflow.set_experiment("Score Prediction")
+mlflow.set_experiment("Score Prediction Experiment")
 
 def load_vars_from_file(file_path):
     with open(file_path, 'r') as file:
@@ -22,6 +23,11 @@ def load_vars_from_file(file_path):
             if line and not line.startswith('#'):  # Ignore empty lines and comments
                 var, value = line.split('=', 1)
                 os.environ[var.strip()] = value.strip()
+    
+def print_model_version_info(mv):
+    print(f"Name: {mv.name}")
+    print(f"Version: {mv.version}")
+    print(f"Source: {mv.source}")
 
 def load_data():
     load_vars_from_file("/home/cristobal/environments/local")
@@ -92,7 +98,11 @@ def train_xgboost_with_mlflow(X_train, y_train, X_test, y_test):
 
     # Train the model
     mlflow.xgboost.autolog()
-    with mlflow.start_run():
+    with mlflow.start_run() as run:
+
+        # tag runName
+        mlflow.set_tag("runName", "score_prediction_model")
+
         random_search.fit(X_train, y_train)
 
         # Log parameters
@@ -120,6 +130,22 @@ def train_xgboost_with_mlflow(X_train, y_train, X_test, y_test):
         test_mse = mean_squared_error(y_test, y_pred)
         mlflow.log_metric("test_mean_squared_error", test_mse)
 
+        from mlflow.tracking import MlflowClient
+        from mlflow.entities.model_registry.model_version_status import ModelVersionStatus
+        # Create source model version
+        client = MlflowClient()
+        src_name = "Score Prediction Model"
+
+        registered_models = client.search_registered_models()
+        model_list = [m.name for m in registered_models]
+        if src_name in model_list:
+            print(f"Model {src_name} already exists. Updating it...")
+        else:
+            client.create_registered_model(src_name)
+        src_uri = f"runs:/{run.info.run_id}/xgboost-model"
+        mv_src = client.create_model_version(src_name, src_uri, run.info.run_id)
+        print_model_version_info(mv_src)
+        print("--")
 
     return random_search.best_estimator_
 
@@ -127,12 +153,18 @@ def train_xgboost_with_mlflow(X_train, y_train, X_test, y_test):
 
 def check_and_update_model():
         
-    registered_models = mlflow.search_runs(filter_string="tags.mlflow.runName = 'score_prediction_model'",
-                                                  order_by=["attributes.start_time DESC"],
-                                                  max_results=1)
+    # # Create an MLflow client
+    # try:
+    #     client = mlflow.tracking.MlflowClient()
+    #     src_name = "Score Prediction Model"
+    #     model = client.get_registered_model(src_name)
+    # except RestException as e:
+    #     print("Model not found")
+    #     return
+
     
     retrain_model = False
-    if registered_models.empty == False:
+    if False:
         # Get the latest model version
         latest_model_version = ['run_id'][0]    
         # Get the creation time of the latest model version
