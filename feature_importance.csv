@@ -1,0 +1,711 @@
+feature,importance
+genre_drama,0.012434163
+"movie_name_Full Monty, The (1997)",0.008115907
+user_occupation_none,0.006863284
+user_occupation_healthcare,0.0068197753
+genre_film_noir,0.0067506516
+"movie_name_Devil's Own, The (1997)",0.006272139
+movie_release_date,0.005687576
+"movie_name_Flintstones, The (1994)",0.0055208546
+movie_name_Liar Liar (1997),0.0055183256
+"movie_name_Close Shave, A (1995)",0.005440982
+movie_name_Striptease (1996),0.0051664817
+movie_name_Jaws 2 (1978),0.0050586048
+"movie_name_Cable Guy, The (1996)",0.0050094966
+"movie_name_Boot, Das (1981)",0.004974628
+"movie_name_Usual Suspects, The (1995)",0.0049732383
+movie_name_Fargo (1996),0.0048857867
+movie_name_Sgt. Bilko (1996),0.004884925
+user_occupation_executive,0.004879709
+"movie_name_Blob, The (1958)",0.0048725884
+movie_name_Dante's Peak (1997),0.0047612498
+"movie_name_Birds, The (1963)",0.0045977295
+movie_name_Kolya (1996),0.0045646303
+movie_name_Heavyweights (1994),0.004544745
+movie_name_Crash (1996),0.004527694
+movie_name_All Dogs Go to Heaven 2 (1996),0.0044730743
+"movie_name_Shawshank Redemption, The (1994)",0.004328616
+user_occupation_writer,0.004308608
+movie_name_Murder at 1600 (1997),0.0043057674
+movie_name_Phenomenon (1996),0.0041481666
+"movie_name_Santa Clause, The (1994)",0.00414756
+movie_name_Jungle2Jungle (1997),0.0041277604
+genre_horror,0.0040884274
+movie_name_Cold Comfort Farm (1995),0.0040603834
+movie_name_Mary Reilly (1996),0.004038446
+"movie_name_Adventures of Priscilla, Queen of the Desert, The (1994)",0.0040357136
+"movie_name_Lawnmower Man, The (1992)",0.0040237578
+movie_name_Batman Forever (1995),0.0039898218
+movie_name_Paradise Lost: The Child Murders at Robin Hood Hills (1996),0.003985986
+movie_name_Forrest Gump (1994),0.0039785006
+"movie_name_Amityville Horror, The (1979)",0.0039607454
+movie_name_Patton (1970),0.0039485027
+movie_name_Coneheads (1993),0.003945593
+movie_name_Dead Man Walking (1995),0.003918714
+genre_children,0.003915249
+movie_name_Mars Attacks! (1996),0.003909678
+movie_name_Amityville II: The Possession (1982),0.003892513
+movie_name_Schindler's List (1993),0.0038893716
+movie_name_Jude (1996),0.0038613016
+movie_name_Pulp Fiction (1994),0.0038295235
+movie_name_Beavis and Butt-head Do America (1996),0.0038075126
+movie_name_Event Horizon (1997),0.0037776744
+movie_name_Muppet Treasure Island (1996),0.00375252
+"movie_name_Very Brady Sequel, A (1996)",0.003703382
+movie_name_D3: The Mighty Ducks (1996),0.0037009213
+"movie_name_Fugitive, The (1993)",0.003678257
+movie_name_Return of the Jedi (1983),0.0036570446
+user_occupation_lawyer,0.0036507524
+genre_musical,0.0036474871
+movie_name_Raising Arizona (1987),0.0036397197
+"movie_name_Firm, The (1993)",0.0036302942
+movie_name_Free Willy 3: The Rescue (1997),0.003629661
+user_occupation_retired,0.0036211244
+movie_name_Beverly Hills Cop III (1994),0.0036109278
+movie_name_One Flew Over the Cuckoo's Nest (1975),0.0035756694
+movie_name_Spawn (1997),0.0035368355
+movie_name_Weekend at Bernie's (1989),0.0035172726
+user_occupation_marketing,0.0034918855
+movie_name_FairyTale: A True Story (1997),0.0034745964
+movie_name_Cop Land (1997),0.0034674318
+movie_name_Natural Born Killers (1994),0.0034408476
+"movie_name_Net, The (1995)",0.003422903
+movie_name_Priest (1994),0.0034121934
+movie_name_Private Benjamin (1980),0.0034093964
+"movie_name_Clockwork Orange, A (1971)",0.0034054073
+user_occupation_doctor,0.0034009856
+"movie_name_Great Race, The (1965)",0.003391804
+movie_name_Trainspotting (1996),0.00338922
+movie_name_George of the Jungle (1997),0.0033455521
+movie_name_Hoop Dreams (1994),0.0033395546
+movie_name_Kansas City (1996),0.003336074
+"movie_name_Rock, The (1996)",0.0033214001
+movie_name_Ace Ventura: When Nature Calls (1995),0.0033176248
+movie_name_Star Trek V: The Final Frontier (1989),0.0033048375
+movie_name_Star Trek: The Motion Picture (1979),0.0032920265
+movie_name_So I Married an Axe Murderer (1993),0.0032890239
+movie_name_Wallace & Gromit: The Best of Aardman Animation (1996),0.003269349
+movie_name_Good Will Hunting (1997),0.003260959
+movie_name_Chasing Amy (1997),0.003243893
+movie_name_Boxing Helena (1993),0.0032399334
+movie_name_Die Hard 2 (1990),0.0032298954
+movie_name_Dirty Dancing (1987),0.0032211244
+"movie_name_Omen, The (1976)",0.0032053774
+movie_id,0.0031964532
+movie_name_Tales from the Hood (1995),0.003184605
+movie_name_Braveheart (1995),0.0031741492
+movie_name_Raging Bull (1980),0.0031643237
+movie_name_Crumb (1994),0.0031568843
+movie_name_Waterworld (1995),0.0031524978
+"movie_name_American Werewolf in London, An (1981)",0.0031450184
+"movie_name_Hunt for Red October, The (1990)",0.0031381086
+"movie_name_Bridges of Madison County, The (1995)",0.0031214706
+movie_name_Face/Off (1997),0.0031138067
+movie_name_Diabolique (1996),0.0031116738
+movie_name_Clerks (1994),0.0030954878
+movie_name_Father of the Bride (1950),0.0030866875
+"movie_name_Return of the Pink Panther, The (1974)",0.0030845532
+movie_name_Shall We Dance? (1996),0.0030842347
+movie_name_Taxi Driver (1976),0.0030814474
+movie_name_Raiders of the Lost Ark (1981),0.003060428
+movie_name_Everyone Says I Love You (1996),0.0030551332
+movie_name_Casablanca (1942),0.0030549907
+movie_name_Top Gun (1986),0.0030370366
+movie_name_Monty Python and the Holy Grail (1974),0.0030354059
+movie_name_Rudy (1993),0.0030345311
+movie_name_Willy Wonka and the Chocolate Factory (1971),0.0030329397
+movie_name_L.A. Confidential (1997),0.0030292694
+movie_name_Operation Dumbo Drop (1995),0.0030131997
+movie_name_Bio-Dome (1996),0.0030033335
+movie_name_Sense and Sensibility (1995),0.0030018198
+movie_name_Apollo 13 (1995),0.0030002457
+"movie_name_Professional, The (1994)",0.002992273
+movie_name_Antonia's Line (1995),0.0029878828
+movie_name_Muriel's Wedding (1994),0.0029813505
+movie_name_Beverly Hills Ninja (1997),0.0029726764
+"movie_name_Lost World: Jurassic Park, The (1997)",0.002971032
+movie_name_Star Trek: The Wrath of Khan (1982),0.0029630857
+movie_name_Black Sheep (1996),0.0029600472
+movie_name_James and the Giant Peach (1996),0.002959232
+"movie_name_Wrong Trousers, The (1993)",0.0029340992
+movie_name_Stargate (1994),0.002915862
+movie_name_Children of the Corn: The Gathering (1996),0.0029100117
+movie_name_Dolores Claiborne (1994),0.0029067595
+movie_name_Twister (1996),0.0029013955
+user_occupation_entertainment,0.0028946255
+movie_name_Secrets & Lies (1996),0.0028730566
+movie_name_Batman & Robin (1997),0.0028701432
+user_occupation_artist,0.0028660933
+"movie_name_Ghost and the Darkness, The (1996)",0.0028422675
+movie_name_Sling Blade (1996),0.002828089
+genre_crime,0.0028261244
+movie_name_Somewhere in Time (1980),0.002821155
+movie_name_Bob Roberts (1992),0.002792228
+movie_name_Men in Black (1997),0.0027814698
+movie_name_Platoon (1986),0.0027803236
+genre_action,0.0027802533
+movie_name_Thinner (1996),0.0027801513
+movie_name_Brazil (1985),0.0027740188
+movie_name_Glengarry Glen Ross (1992),0.0027634273
+"movie_name_Unbearable Lightness of Being, The (1988)",0.0027336401
+movie_name_Babe (1995),0.002732798
+movie_name_Clueless (1995),0.0027221837
+movie_name_Addams Family Values (1993),0.0026997307
+genre_comedy,0.0026970287
+movie_name_Spy Hard (1996),0.0026905478
+movie_name_Last Action Hero (1993),0.0026830356
+movie_name_Things to Do in Denver when You're Dead (1995),0.002671983
+movie_name_Batman (1989),0.0026651665
+"movie_name_Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",0.0026634214
+movie_name_Full Metal Jacket (1987),0.002651881
+"movie_name_Brady Bunch Movie, The (1995)",0.0026394154
+movie_name_Breakfast at Tiffany's (1961),0.0026328152
+movie_name_Evita (1996),0.002627715
+movie_name_Speed (1994),0.0026241287
+"movie_name_Silence of the Lambs, The (1991)",0.0026182265
+movie_name_Pink Floyd - The Wall (1982),0.0026134332
+movie_name_Hot Shots! Part Deux (1993),0.002605857
+movie_name_Terminator 2: Judgment Day (1991),0.0025930922
+movie_name_Mouse Hunt (1997),0.0025839917
+user_occupation_homemaker,0.0025816355
+movie_name_Emma (1996),0.002565455
+"movie_name_Graduate, The (1967)",0.002564427
+movie_name_Dragonheart (1996),0.0025618523
+movie_name_Grosse Pointe Blank (1997),0.0025479589
+movie_name_Mr. Holland's Opus (1995),0.0025297413
+"movie_name_Crow, The (1994)",0.0025287175
+movie_name_Big Night (1996),0.002522066
+genre_mystery,0.0025161852
+movie_name_Bean (1997),0.0025131628
+movie_name_Jackie Chan's First Strike (1996),0.0025125183
+movie_name_Angels and Insects (1995),0.00250542
+movie_name_Aliens (1986),0.0025011592
+movie_name_Showgirls (1995),0.002499358
+movie_name_Gattaca (1997),0.0024909987
+user_occupation_administrator,0.002490365
+"movie_name_Man Who Knew Too Little, The (1997)",0.0024835984
+genre_documentary,0.0024740966
+movie_name_Jeffrey (1995),0.0024731234
+movie_name_Copycat (1995),0.0024670623
+movie_name_Clear and Present Danger (1994),0.0024584762
+movie_name_Matilda (1996),0.0024515651
+movie_name_Alien (1979),0.002442588
+movie_name_Beauty and the Beast (1991),0.0024416274
+movie_name_2001: A Space Odyssey (1968),0.002424549
+movie_name_Lone Star (1996),0.0024243211
+movie_name_12 Angry Men (1957),0.002423942
+"movie_name_Princess Bride, The (1987)",0.0024211823
+"movie_name_Edge, The (1997)",0.002416757
+movie_name_Heat (1995),0.0024158738
+movie_name_Breaking the Waves (1996),0.00240609
+movie_name_Ace Ventura: Pet Detective (1994),0.002401305
+movie_name_Eat Drink Man Woman (1994),0.0023980543
+"movie_name_Jungle Book, The (1994)",0.0023788773
+movie_name_Apt Pupil (1998),0.0023768917
+"movie_name_To Wong Foo, Thanks for Everything! Julie Newmar (1995)",0.0023744632
+"movie_name_Mirror Has Two Faces, The (1996)",0.0023722562
+movie_name_Striking Distance (1993),0.0023662536
+movie_name_Three Colors: Red (1994),0.0023552605
+movie_name_Star Trek III: The Search for Spock (1984),0.002349274
+movie_name_Grease (1978),0.0023451168
+movie_name_Mighty Aphrodite (1995),0.002338732
+movie_name_Star Trek: First Contact (1996),0.0023270443
+movie_name_Mrs. Doubtfire (1993),0.0023184284
+movie_name_Robin Hood: Men in Tights (1993),0.0023173885
+"movie_name_Secret of Roan Inish, The (1994)",0.0023100926
+movie_name_Billy Madison (1995),0.0023077554
+movie_name_Batman Returns (1992),0.0023024457
+movie_name_Naked Gun 33 1/3: The Final Insult (1994),0.002300435
+genre_animation,0.0022944005
+"movie_name_Terminator, The (1984)",0.0022815457
+"movie_name_Hudsucker Proxy, The (1994)",0.0022801755
+movie_name_Fly Away Home (1996),0.0022768734
+movie_name_Miracle on 34th Street (1994),0.0022637378
+movie_name_Being There (1979),0.0022605956
+movie_name_Scream (1996),0.0022582528
+movie_name_Red Rock West (1992),0.002255607
+user_id,0.0022553517
+movie_name_Titanic (1997),0.0022493626
+movie_name_Free Willy (1993),0.0022479433
+movie_name_Die Hard: With a Vengeance (1995),0.002245559
+"movie_name_River Wild, The (1994)",0.0022341127
+movie_name_Tombstone (1993),0.0022305935
+"movie_name_Ref, The (1994)",0.0022229776
+"movie_name_Apartment, The (1960)",0.0022226127
+movie_name_Absolute Power (1997),0.0022222076
+movie_name_Playing God (1997),0.002218649
+"movie_name_Hunchback of Notre Dame, The (1996)",0.0022132932
+movie_name_My Fair Lady (1964),0.0022024177
+movie_name_Citizen Kane (1941),0.0021905478
+"movie_name_Apple Dumpling Gang, The (1975)",0.0021847705
+movie_name_Hoodlum (1997),0.0021805803
+movie_name_On Golden Pond (1981),0.0021739565
+movie_name_Another Stakeout (1993),0.0021704962
+movie_name_Reservoir Dogs (1992),0.0021687932
+genre_adventure,0.0021663057
+movie_name_Ed Wood (1994),0.0021610705
+movie_name_Shine (1996),0.0021392033
+movie_name_Carrie (1976),0.0021259168
+movie_name_Carlito's Way (1993),0.0021221654
+movie_name_Young Frankenstein (1974),0.0021207423
+movie_name_Mortal Kombat (1995),0.002115185
+movie_name_Legends of the Fall (1994),0.0021018079
+movie_name_Pump Up the Volume (1990),0.002101029
+movie_name_Deceiver (1997),0.0020871996
+genre_war,0.002085752
+movie_name_Mystery Science Theater 3000: The Movie (1996),0.0020827858
+user_occupation_librarian,0.0020769516
+movie_name_Cape Fear (1991),0.0020727022
+movie_name_As Good As It Gets (1997),0.0020706058
+movie_name_Rebecca (1940),0.002068929
+movie_name_Once Upon a Time in America (1984),0.002060817
+movie_name_Starship Troopers (1997),0.0020524245
+movie_name_Young Guns (1988),0.002052083
+movie_name_City Slickers II: The Legend of Curly's Gold (1994),0.002047122
+movie_name_To Kill a Mockingbird (1962),0.0020414214
+genre_western,0.0020389236
+movie_name_Henry V (1989),0.0020292546
+"movie_name_Parent Trap, The (1961)",0.0020206862
+movie_name_Up Close and Personal (1996),0.0020031808
+movie_name_Much Ado About Nothing (1993),0.0019985798
+genre_sci_fi,0.0019922804
+movie_name_True Lies (1994),0.0019711105
+movie_name_Midnight in the Garden of Good and Evil (1997),0.0019533131
+"movie_name_Deer Hunter, The (1978)",0.0019519903
+movie_name_Local Hero (1983),0.0019519674
+movie_name_Disclosure (1994),0.0019327437
+genre_romance,0.0019301511
+genre_fantasy,0.0019235831
+"movie_name_Three Caballeros, The (1945)",0.0019161935
+movie_name_Rumble in the Bronx (1995),0.0019156231
+movie_name_Jackie Brown (1997),0.0019138146
+user_occupation_educator,0.0019111651
+movie_name_I.Q. (1994),0.0019073528
+movie_name_It's a Wonderful Life (1946),0.0018926405
+movie_name_Mary Shelley's Frankenstein (1994),0.0018888675
+movie_name_Gandhi (1982),0.0018876592
+user_occupation_technician,0.0018770344
+movie_name_Bad Boys (1995),0.0018440011
+movie_name_Delicatessen (1991),0.0018410638
+"movie_name_People vs. Larry Flynt, The (1996)",0.0018403557
+movie_name_Lost Highway (1997),0.0018325255
+movie_name_Ran (1985),0.0018306826
+movie_name_G.I. Jane (1997),0.0018295265
+"movie_name_Crossing Guard, The (1995)",0.0018235379
+"movie_name_Streetcar Named Desire, A (1951)",0.0018180853
+movie_name_Robin Hood: Prince of Thieves (1991),0.0018138307
+movie_name_Gone with the Wind (1939),0.0018131536
+movie_name_From Dusk Till Dawn (1996),0.0018063778
+movie_name_Cinema Paradiso (1988),0.0018014923
+movie_name_Independence Day (ID4) (1996),0.0018010765
+movie_name_Basic Instinct (1992),0.001785995
+movie_name_Alien 3 (1992),0.0017854512
+"movie_name_Ice Storm, The (1997)",0.0017840944
+genre_thriller,0.001772112
+"movie_name_Nutty Professor, The (1996)",0.0017666637
+movie_name_Star Trek IV: The Voyage Home (1986),0.0017612267
+movie_name_Lord of Illusions (1995),0.0017490163
+movie_name_Harold and Maude (1971),0.0017365915
+movie_name_Mimic (1997),0.0017344484
+movie_name_Heavy Metal (1981),0.0017299048
+movie_name_Addicted to Love (1997),0.0017295757
+movie_name_Homeward Bound: The Incredible Journey (1993),0.0017240434
+"movie_name_Cook the Thief His Wife & Her Lover, The (1989)",0.001722498
+movie_name_Bed of Roses (1996),0.0017139439
+"movie_name_Lion King, The (1994)",0.0017128678
+movie_name_Cyrano de Bergerac (1990),0.0017106916
+"movie_name_Godfather, The (1972)",0.0017028832
+"movie_name_Godfather: Part II, The (1974)",0.0016869002
+movie_name_Three Colors: Blue (1993),0.0016846647
+user_occupation_other,0.0016743161
+movie_name_Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),0.0016735242
+movie_name_Boogie Nights (1997),0.0016561676
+movie_name_Army of Darkness (1993),0.0016517482
+"movie_name_American in Paris, An (1951)",0.0016499984
+"movie_name_Devil's Advocate, The (1997)",0.0016426367
+movie_name_Escape from New York (1981),0.0016217014
+movie_name_Free Willy 2: The Adventure Home (1995),0.0016126005
+"movie_name_Long Kiss Goodnight, The (1996)",0.001609563
+movie_name_Judge Dredd (1995),0.0016057837
+user_occupation_programmer,0.0015824302
+movie_name_Bound (1996),0.0015777806
+movie_name_Sudden Death (1995),0.0015681129
+movie_name_Kingpin (1996),0.0015636255
+movie_name_Tales From the Crypt Presents: Demon Knight (1995),0.0015626478
+movie_name_Miller's Crossing (1990),0.0015572574
+"movie_name_Shining, The (1980)",0.0015548457
+movie_name_Four Rooms (1995),0.0015545969
+movie_name_Manhattan (1979),0.0015447526
+"movie_name_Rainmaker, The (1997)",0.0015427046
+movie_name_Star Trek: Generations (1994),0.0015406862
+movie_name_Serial Mom (1994),0.0015345133
+"movie_name_Empire Strikes Back, The (1980)",0.0015223221
+"movie_name_Nightmare on Elm Street, A (1984)",0.0014864658
+movie_name_Annie Hall (1977),0.0014864412
+user_occupation_student,0.0014854919
+user_occupation_engineer,0.0014792981
+movie_name_My Best Friend's Wedding (1997),0.0014751587
+movie_name_Glory (1989),0.0014744272
+movie_name_North by Northwest (1959),0.0014605398
+"movie_name_Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",0.0014581486
+movie_name_Indiana Jones and the Last Crusade (1989),0.0014552996
+user_active_since,0.0014479092
+movie_name_Aladdin (1992),0.0014458019
+movie_name_Arsenic and Old Lace (1944),0.0014335002
+movie_name_Sleeper (1973),0.0014220522
+movie_name_Smilla's Sense of Snow (1997),0.0014146694
+movie_name_Primal Fear (1996),0.0013925695
+"movie_name_Birdcage, The (1996)",0.0013855794
+"movie_name_Love Bug, The (1969)",0.0013065767
+movie_name_Air Force One (1997),0.0012179385
+movie_name_Duck Soup (1933),0.001212794
+movie_name_Apocalypse Now (1979),0.0011774522
+"movie_name_Remains of the Day, The (1993)",0.0011555568
+user_occupation_scientist,0.0011403725
+movie_name_Twelve Monkeys (1995),0.0011260397
+movie_name_Pinocchio (1940),0.0011116203
+movie_name_Dial M for Murder (1954),0.0010825371
+movie_name_Jaws (1975),0.0010148089
+"movie_name_Thin Blue Line, The (1988)",0.00036942275
+"movie_name_Walk in the Clouds, A (1995)",0.0
+"movie_name_Wild Bunch, The (1969)",0.0
+movie_name_Police Story 4: Project S (Chao ji ji hua) (1993),0.0
+movie_name_Pocahontas (1995),0.0
+"movie_name_Pillow Book, The (1995)",0.0
+movie_name_Wag the Dog (1997),0.0
+movie_name_Wonderland (1997),0.0
+"movie_name_Young Poisoner's Handbook, The (1995)",0.0
+movie_name_Wyatt Earp (1994),0.0
+movie_name_Ponette (1996),0.0
+movie_name_Rear Window (1954),0.0
+movie_name_Village of the Damned (1995),0.0
+"movie_name_Paris, Texas (1984)",0.0
+movie_name_Rebel Without a Cause (1955),0.0
+movie_name_Radioland Murders (1994),0.0
+"movie_name_Wedding Singer, The (1998)",0.0
+movie_name_Quiz Show (1994),0.0
+movie_name_Wolf (1994),0.0
+movie_name_Wild Bill (1995),0.0
+movie_name_White Man's Burden (1995),0.0
+"movie_name_White Balloon, The (1995)",0.0
+"movie_name_Piano, The (1993)",0.0
+"movie_name_Philadelphia Story, The (1940)",0.0
+movie_name_While You Were Sleeping (1995),0.0
+movie_name_When the Cats Away (Chacun cherche son chat) (1996),0.0
+movie_name_Victor/Victoria (1982),0.0
+movie_name_William Shakespeare's Romeo and Juliet (1996),0.0
+movie_name_Wings of Desire (1987),0.0
+"movie_name_Prophecy II, The (1998)",0.0
+movie_name_When Harry Met Sally... (1989),0.0
+"movie_name_Wings of the Dove, The (1997)",0.0
+"movie_name_Wizard of Oz, The (1939)",0.0
+movie_name_Psycho (1960),0.0
+movie_name_What's Eating Gilbert Grape (1993),0.0
+movie_name_Wes Craven's New Nightmare (1994),0.0
+movie_name_Welcome to the Dollhouse (1995),0.0
+movie_name_Picnic (1955),0.0
+"movie_name_Quick and the Dead, The (1995)",0.0
+movie_name_Powder (1995),0.0
+"movie_name_Quiet Man, The (1952)",0.0
+movie_name_Paths of Glory (1957),0.0
+"movie_name_Postino, Il (1994)",0.0
+"movie_name_Truth About Cats & Dogs, The (1996)",0.0
+movie_name_Vertigo (1958),0.0
+"movie_name_Sword in the Stone, The (1963)",0.0
+movie_name_Sneakers (1992),0.0
+movie_name_Smoke (1995),0.0
+movie_name_Supercop (1992),0.0
+movie_name_Sleepless in Seattle (1993),0.0
+movie_name_Swingers (1996),0.0
+movie_name_Sleepers (1996),0.0
+movie_name_Swiss Family Robinson (1960),0.0
+movie_name_Tales from the Crypt Presents: Bordello of Blood (1996),0.0
+movie_name_Snow White and the Seven Dwarfs (1937),0.0
+movie_name_Terminal Velocity (1994),0.0
+movie_name_Short Cuts (1993),0.0
+movie_name_The Innocent (1994),0.0
+movie_name_Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),0.0
+movie_name_Theodore Rex (1995),0.0
+"movie_name_Thin Man, The (1934)",0.0
+"movie_name_Seventh Seal, The (Sjunde inseglet, Det) (1957)",0.0
+movie_name_Super Mario Bros. (1993),0.0
+movie_name_So Dear to My Heart (1949),0.0
+movie_name_Vanya on 42nd Street (1994),0.0
+movie_name_Paris Is Burning (1990),0.0
+movie_name_Star Trek VI: The Undiscovered Country (1991),0.0
+movie_name_Stalingrad (1993),0.0
+"movie_name_Spitfire Grill, The (1996)",0.0
+movie_name_Spice World (1997),0.0
+movie_name_Sphere (1998),0.0
+movie_name_Spellbound (1945),0.0
+movie_name_Star Wars (1977),0.0
+movie_name_Species (1995),0.0
+movie_name_Sunset Blvd. (1950),0.0
+movie_name_Stephen King's The Langoliers (1995),0.0
+"movie_name_Sound of Music, The (1965)",0.0
+"movie_name_Sting, The (1973)",0.0
+movie_name_Sophie's Choice (1982),0.0
+movie_name_Son in Law (1993),0.0
+movie_name_Strange Days (1995),0.0
+movie_name_Some Like It Hot (1959),0.0
+movie_name_Seven (Se7en) (1995),0.0
+"movie_name_Third Man, The (1949)",0.0
+movie_name_This Is Spinal Tap (1984),0.0
+movie_name_Ulee's Gold (1997),0.0
+movie_name_True Romance (1993),0.0
+movie_name_Roman Holiday (1953),0.0
+movie_name_Stand by Me (1986),0.0
+movie_name_Turbo: A Power Rangers Movie (1997),0.0
+movie_name_Robert A. Heinlein's The Puppet Masters (1994),0.0
+movie_name_Rob Roy (1995),0.0
+movie_name_U Turn (1997),0.0
+"movie_name_Right Stuff, The (1983)",0.0
+movie_name_Three Colors: White (1994),0.0
+movie_name_Under Siege (1992),0.0
+movie_name_Ridicule (1996),0.0
+movie_name_Richard III (1995),0.0
+movie_name_Unforgiven (1992),0.0
+movie_name_Unhook the Stars (1996),0.0
+movie_name_Vampire in Brooklyn (1995),0.0
+movie_name_Restoration (1995),0.0
+movie_name_True Crime (1995),0.0
+movie_name_Romeo Is Bleeding (1993),0.0
+"movie_name_Treasure of the Sierra Madre, The (1948)",0.0
+"movie_name_Room with a View, A (1986)",0.0
+"movie_name_Secret Garden, The (1993)",0.0
+movie_name_Searching for Bobby Fischer (1993),0.0
+"movie_name_Three Musketeers, The (1993)",0.0
+"movie_name_Time to Kill, A (1996)",0.0
+movie_name_Tin Cup (1996),0.0
+"movie_name_Tin Drum, The (Blechtrommel, Die) (1979)",0.0
+movie_name_To Catch a Thief (1955),0.0
+movie_name_Touch of Evil (1958),0.0
+movie_name_Toy Story (1995),0.0
+movie_name_Sabrina (1995),0.0
+movie_name_Sabrina (1954),0.0
+"movie_name_Transformers: The Movie, The (1986)",0.0
+movie_name_Rosewood (1997),0.0
+movie_name_Traveller (1997),0.0
+movie_name_Rosencrantz and Guildenstern Are Dead (1990),0.0
+movie_name_Steel (1997),0.0
+movie_name_In the Company of Men (1997),0.0
+movie_name_Outbreak (1995),0.0
+movie_name_Cinderella (1950),0.0
+"movie_name_Crying Game, The (1992)",0.0
+"movie_name_Cry, the Beloved Country (1995)",0.0
+movie_name_Critical Care (1997),0.0
+movie_name_Crimson Tide (1995),0.0
+movie_name_Courage Under Fire (1996),0.0
+movie_name_Cool Hand Luke (1967),0.0
+movie_name_Contact (1997),0.0
+movie_name_Conspiracy Theory (1997),0.0
+movie_name_Cliffhanger (1993),0.0
+"movie_name_Client, The (1994)",0.0
+movie_name_Citizen Ruth (1996),0.0
+"movie_name_Christmas Carol, A (1938)",0.0
+movie_name_Dangerous Minds (1995),0.0
+movie_name_Chinatown (1974),0.0
+"movie_name_Chamber, The (1996)",0.0
+movie_name_Cat on a Hot Tin Roof (1958),0.0
+movie_name_Candyman (1992),0.0
+"movie_name_Candidate, The (1972)",0.0
+movie_name_Butch Cassidy and the Sundance Kid (1969),0.0
+movie_name_Burnt Offerings (1976),0.0
+"movie_name_Brothers McMullen, The (1995)",0.0
+movie_name_Brother Minister: The Assassination of Malcolm X (1994),0.0
+"movie_name_Bronx Tale, A (1993)",0.0
+movie_name_Broken Arrow (1996),0.0
+movie_name_Dances with Wolves (1990),0.0
+movie_name_Daniel Defoe's Robinson Crusoe (1996),0.0
+movie_name_Once Upon a Time... When We Were Colored (1995),0.0
+movie_name_Dumbo (1941),0.0
+movie_name_Fantasia (1940),0.0
+"movie_name_Fan, The (1996)",0.0
+movie_name_Fallen (1998),0.0
+movie_name_Extreme Measures (1996),0.0
+movie_name_Exotica (1994),0.0
+movie_name_Evil Dead II (1987),0.0
+movie_name_Eraser (1996),0.0
+"movie_name_Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)",0.0
+"movie_name_English Patient, The (1996)",0.0
+movie_name_East of Eden (1955),0.0
+movie_name_E.T. the Extra-Terrestrial (1982),0.0
+movie_name_Down by Law (1986),0.0
+"movie_name_Davy Crockett, King of the Wild Frontier (1955)",0.0
+"movie_name_Doom Generation, The (1995)",0.0
+movie_name_Donnie Brasco (1997),0.0
+movie_name_Die Hard (1988),0.0
+movie_name_Desperate Measures (1998),0.0
+movie_name_Desperado (1995),0.0
+movie_name_Demolition Man (1993),0.0
+movie_name_Deep Rising (1998),0.0
+movie_name_Deconstructing Harry (1997),0.0
+movie_name_Dead Poets Society (1989),0.0
+"movie_name_Daytrippers, The (1996)",0.0
+"movie_name_Day the Earth Stood Still, The (1951)",0.0
+movie_name_Bringing Up Baby (1938),0.0
+"movie_name_Bridge on the River Kwai, The (1957)",0.0
+movie_name_Bride of Frankenstein (1935),0.0
+movie_name_Akira (1988),0.0
+movie_name_Angels in the Outfield (1994),0.0
+movie_name_Anastasia (1997),0.0
+movie_name_Amityville: A New Generation (1993),0.0
+"movie_name_Amityville Curse, The (1990)",0.0
+movie_name_Amityville 3-D (1983),0.0
+movie_name_Amityville 1992: It's About Time (1992),0.0
+movie_name_Amadeus (1984),0.0
+movie_name_All About Eve (1950),0.0
+movie_name_Alien: Resurrection (1997),0.0
+movie_name_Alice in Wonderland (1951),0.0
+movie_name_Aladdin and the King of Thieves (1996),0.0
+movie_name_Air Bud (1997),0.0
+movie_name_Breakdown (1997),0.0
+"movie_name_Age of Innocence, The (1993)",0.0
+"movie_name_African Queen, The (1951)",0.0
+"movie_name_Adventures of Robin Hood, The (1938)",0.0
+"movie_name_Abyss, The (1989)",0.0
+"movie_name_39 Steps, The (1935)",0.0
+movie_name_3 Ninjas: High Noon At Mega Mountain (1998),0.0
+"movie_name_20,000 Leagues Under the Sea (1954)",0.0
+movie_name_187 (1997),0.0
+user_occupation_salesman,0.0
+movie_imdb_url,0.0
+genre_unknown,0.0
+"movie_name_Apostle, The (1997)",0.0
+"movie_name_Aristocats, The (1970)",0.0
+movie_name_Around the World in 80 Days (1956),0.0
+"movie_name_Assignment, The (1997)",0.0
+movie_name_Bram Stoker's Dracula (1992),0.0
+movie_name_Bonnie and Clyde (1967),0.0
+movie_name_Body Snatchers (1993),0.0
+"movie_name_Body Snatcher, The (1945)",0.0
+movie_name_Body Parts (1991),0.0
+"movie_name_Blues Brothers, The (1980)",0.0
+movie_name_Blues Brothers 2000 (1998),0.0
+"movie_name_Blue Angel, The (Blaue Engel, Der) (1930)",0.0
+movie_name_Blown Away (1994),0.0
+movie_name_Blood For Dracula (Andy Warhol's Dracula) (1974),0.0
+movie_name_Blood Beach (1981),0.0
+movie_name_Blade Runner (1982),0.0
+movie_name_Black Beauty (1994),0.0
+"movie_name_Big Squeeze, The (1996)",0.0
+"movie_name_Big Sleep, The (1946)",0.0
+movie_name_Ben-Hur (1959),0.0
+movie_name_Belle de jour (1967),0.0
+movie_name_Bedknobs and Broomsticks (1971),0.0
+movie_name_Bastard Out of Carolina (1996),0.0
+movie_name_Bananas (1971),0.0
+movie_name_Back to the Future (1985),0.0
+movie_name_Austin Powers: International Man of Mystery (1997),0.0
+movie_name_Audrey Rose (1977),0.0
+movie_name_Farinelli: il castrato (1994),0.0
+movie_name_Faster Pussycat! Kill! Kill! (1965),0.0
+movie_name_Fatal Instinct (1993),0.0
+movie_name_M*A*S*H (1970),0.0
+movie_name_Mary Poppins (1964),0.0
+movie_name_Marvin's Room (1996),0.0
+movie_name_Manon of the Spring (Manon des sources) (1986),0.0
+"movie_name_Manchurian Candidate, The (1962)",0.0
+"movie_name_Man Without a Face, The (1993)",0.0
+"movie_name_Man Who Would Be King, The (1975)",0.0
+"movie_name_Maltese Falcon, The (1941)",0.0
+"movie_name_Magnificent Seven, The (1954)",0.0
+"movie_name_Madness of King George, The (1994)",0.0
+movie_name_Mad Love (1995),0.0
+movie_name_Mad City (1997),0.0
+movie_name_M (1931),0.0
+movie_name_Kama Sutra: A Tale of Love (1996),0.0
+movie_name_Lost Horizon (1937),0.0
+"movie_name_Little Rascals, The (1994)",0.0
+movie_name_Like Water For Chocolate (Como agua para chocolate) (1992),0.0
+movie_name_Leaving Las Vegas (1995),0.0
+movie_name_Lawrence of Arabia (1962),0.0
+movie_name_Laura (1944),0.0
+"movie_name_Last of the Mohicans, The (1992)",0.0
+movie_name_Kull the Conqueror (1997),0.0
+movie_name_Kiss the Girls (1997),0.0
+"movie_name_Killing Fields, The (1984)",0.0
+movie_name_Kids in the Hall: Brain Candy (1996),0.0
+"movie_name_Mask, The (1994)",0.0
+movie_name_Maverick (1994),0.0
+movie_name_Maya Lin: A Strong Clear Vision (1994),0.0
+movie_name_Meet Me in St. Louis (1944),0.0
+movie_name_Once Upon a Time in the West (1969),0.0
+movie_name_Old Yeller (1957),0.0
+movie_name_Notorious (1946),0.0
+movie_name_Nixon (1995),0.0
+movie_name_Nikita (La Femme Nikita) (1990),0.0
+"movie_name_Nightmare Before Christmas, The (1993)",0.0
+movie_name_Night of the Living Dead (1968),0.0
+"movie_name_NeverEnding Story III, The (1994)",0.0
+movie_name_Nadja (1994),0.0
+movie_name_My Own Private Idaho (1991),0.0
+movie_name_My Man Godfrey (1936),0.0
+movie_name_My Life as a Dog (Mitt liv som hund) (1985),0.0
+movie_name_My Left Foot (1989),0.0
+movie_name_My Favorite Year (1982),0.0
+movie_name_Mr. Smith Goes to Washington (1939),0.0
+movie_name_Mother (1996),0.0
+movie_name_Monty Python's Life of Brian (1979),0.0
+movie_name_Money Train (1995),0.0
+movie_name_Moll Flanders (1996),0.0
+"movie_name_Misérables, Les (1995)",0.0
+movie_name_Mission: Impossible (1996),0.0
+movie_name_Mighty Morphin Power Rangers: The Movie (1995),0.0
+movie_name_Microcosmos: Le peuple de l'herbe (1996),0.0
+"movie_name_Kid in King Arthur's Court, A (1995)",0.0
+movie_name_Kalifornia (1993),0.0
+movie_name_Fear of a Black Hat (1993),0.0
+"movie_name_Frighteners, The (1996)",0.0
+"movie_name_Great Escape, The (1963)",0.0
+"movie_name_Great Dictator, The (1940)",0.0
+"movie_name_Grand Day Out, A (1992)",0.0
+movie_name_GoodFellas (1990),0.0
+"movie_name_Good, The Bad and The Ugly, The (1966)",0.0
+movie_name_GoldenEye (1995),0.0
+movie_name_Gigi (1958),0.0
+movie_name_Giant (1956),0.0
+movie_name_Ghost (1990),0.0
+movie_name_Get Shorty (1995),0.0
+"movie_name_Game, The (1997)",0.0
+movie_name_Fried Green Tomatoes (1991),0.0
+movie_name_Jurassic Park (1993),0.0
+movie_name_French Twist (Gazon maudit) (1995),0.0
+movie_name_Four Weddings and a Funeral (1994),0.0
+movie_name_Forbidden Planet (1956),0.0
+movie_name_For Whom the Bell Tolls (1943),0.0
+"movie_name_Fog, The (1980)",0.0
+movie_name_Flipper (1996),0.0
+"movie_name_Fish Called Wanda, A (1988)",0.0
+"movie_name_First Wives Club, The (1996)",0.0
+"movie_name_Fifth Element, The (1997)",0.0
+movie_name_Fierce Creatures (1997),0.0
+movie_name_Field of Dreams (1989),0.0
+"movie_name_Grifters, The (1990)",0.0
+movie_name_Groundhog Day (1993),0.0
+movie_name_Hard Rain (1998),0.0
+"movie_name_Haunted World of Edward D. Wood Jr., The (1995)",0.0
+movie_name_Jerry Maguire (1996),0.0
+movie_name_Jean de Florette (1986),0.0
+movie_name_Jaws 3-D (1983),0.0
+movie_name_Jack (1996),0.0
+movie_name_It Happened One Night (1934),0.0
+movie_name_Interview with the Vampire (1994),0.0
+movie_name_Incognito (1997),0.0
+movie_name_In the Name of the Father (1993),0.0
+movie_name_In & Out (1997),0.0
+"movie_name_Howling, The (1981)",0.0
+movie_name_How to Be a Player (1997),0.0
+movie_name_Houseguest (1994),0.0
+"movie_name_House of Yes, The (1997)",0.0
+"movie_name_Hour of the Pig, The (1993)",0.0
+"movie_name_Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",0.0
+movie_name_Home Alone (1990),0.0
+movie_name_His Girl Friday (1940),0.0
+movie_name_Highlander (1986),0.0
+movie_name_High Noon (1952),0.0
+movie_name_Hellraiser: Bloodline (1996),0.0
+movie_name_Heavy (1995),0.0
+movie_name_Heavenly Creatures (1994),0.0
+movie_name_Heathers (1989),0.0
+movie_name_unknown,0.0

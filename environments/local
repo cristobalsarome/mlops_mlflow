@@ -1,9 +1,0 @@
-POSTGRES_USER=mlflow_user
-POSTGRES_PASSWORD=mlflow
-POSTGRES_HOST=localhost:5432
-MLFLOW_POSTGRES_DB=mlflow_db
-MLFLOW_ARTIFACTS_PATH=home/cristobal/mlops_mlflow/mlflow_data
-AIRBYTE_POSTGRES_DB=mlops
-AIRBYTE_POSTGRES_USER=airbyte
-AIRBYTE_POSTGRES_PASS=airbyte
-

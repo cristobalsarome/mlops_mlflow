@@ -1,3 +1,5 @@
 /mlruns
 /__pycache__
 /.vscode
+/mlflow_data
+/home
